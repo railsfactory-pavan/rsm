@@ -64,6 +64,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'devise', '~> 4.6', '>= 4.6.1'
-gem 'state_machine', '~> 1.2'
-gem 'ruby-graphviz', '~> 1.2', '>= 1.2.4'
-gem 'active_model_serializers', '~> 0.10.9'
+gem 'aasm', '~> 5.0', '>= 5.0.1'
